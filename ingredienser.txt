@@ -2,5 +2,4 @@ avokado
 tomat
 løk
 chili
-hvitløk
 koriander
