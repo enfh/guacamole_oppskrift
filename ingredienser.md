@@ -6,9 +6,9 @@
 * chili
 * koriander
 
-First Header | Second Header
+Overskrift 1 | Overskrift 2
 ------------ | -------------
-Content cell 1 | Content cell 2
+innhold 1 | innhold 2
 Content column 1 | Content column 2
 
 > Her kommer et sitat!!
