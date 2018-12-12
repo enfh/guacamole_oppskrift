@@ -6,6 +6,8 @@
 * chili
 * koriander
 
+[Her finner du fremgangsmåten](https://github.com/enfh/guacamole_oppskrift/blob/master/fremgangsm%C3%A5te.txt)
+
 Overskrift 1 | Overskrift 2
 ------------ | -------------
 innhold 1 | innhold 2
